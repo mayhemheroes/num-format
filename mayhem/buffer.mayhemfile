@@ -1,0 +1,5 @@
+project: num-format
+target: buffer
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_buffer
