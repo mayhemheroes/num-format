@@ -1,0 +1,5 @@
+project: num-format
+target: to_formatted_string
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_to_formatted_string
